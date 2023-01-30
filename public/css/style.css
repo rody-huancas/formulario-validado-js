@@ -112,6 +112,7 @@ body {
 }
 
 .formulario__mensaje {
+  text-align: center;
   padding: 1.3rem 1rem;
   background-color: var(--color-error);
   color: var(--color-white);
